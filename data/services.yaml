@@ -1,3 +1,9 @@
+nlexch:
+  icon: https://www.nlexch.com/favicon-16x16.png
+  label: NLexch
+  url: https://www.nlexch.com/
+  content: Trade over 75 different types of cryptocurrencies.
+  coins: [ADA, ARC, ARG, BXT, BCH, DASH, BSTY, BTC, CAT, CND, CSC, DGB, DGC, DOGE, FRK, FST, FTC, GAME, I0C, INFX, LEAF, LTC, EMC, MUE, XMY, NLG, NMC, NOTE, PTC, QRK, SXC, SMC, SRC, SYS, TRC, UIS, UNO, VCN, XVP, VTC, WDC, XLM, XJO, ZET, ETH, XRP, TIPS]
 coinspot:
   label: CoinSpot
   icon: https://d251lnmie5xeg6.cloudfront.net/public/img/coinspot-sml.png?v=35
